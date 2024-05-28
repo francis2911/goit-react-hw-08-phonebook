@@ -1,0 +1,5 @@
+.flex-form--btn {
+  display: flex;
+  justify-content: flex-end;
+  gap: 25px;
+}

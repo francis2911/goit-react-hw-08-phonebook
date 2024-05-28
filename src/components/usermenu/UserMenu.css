@@ -1,0 +1,9 @@
+.user-menu {
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+}
+
+.user-message {
+  font-size: medium;
+}
